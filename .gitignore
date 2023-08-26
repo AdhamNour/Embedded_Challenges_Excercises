@@ -104,3 +104,6 @@ local.properties
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,visualstudiocode,cmake
+*/Debug/*
+*.elf
+*.hex
